@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - yol2
+  - yol1
+  - Trigger 1
+  - Trigger 2
+  - final
+  - skorTabelasi
+  - Zemin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: arkaPlan
+    uniqueID: 1310858459
+    locked: 0
+  - name: PngLights
+    uniqueID: 3399165147
+    locked: 0
+  - name: Zemin
+    uniqueID: 462688277
+    locked: 0
+  - name: karakter efekti
+    uniqueID: 2699058955
+    locked: 0
+  - name: Karakter
+    uniqueID: 1688194019
+    locked: 0
+  - name: Canvas
+    uniqueID: 3962832409
+    locked: 0
